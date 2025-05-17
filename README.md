@@ -26,7 +26,7 @@ This project explores **17.5 million+ ride records** from the Capital Bikeshare 
 ## 📁 Project Structure
 
 - `Capital Bikeshare Project.ipynb` – Main notebook with full analysis and visualizations  
-- `tableau_visuals/` – Screenshots or workbook files from Tableau dashboards *(optional folder)*  
+- [`tableau_visuals/`](https://www.github.com/lokeshlavu01/Capital-Bikeshare-Data-Analysis/tableau_visuals) – Screenshots or workbook files from Tableau dashboards *(optional folder)*  
 - `data/` – Raw and cleaned data files *(if shareable)*
 
 ## 🚀 How to Run
@@ -39,8 +39,8 @@ This project explores **17.5 million+ ride records** from the Capital Bikeshare 
 
 ## 📈 Tableau Dashboards
 
-📊 View Tableau visuals (optional):  
-🔗 *[Add Tableau Public link or shared folder if available]*
+📊 View Tableau visuals:  
+🔗 *[[Tableau Visualizations](https://public.tableau.com/app/profile/lokeshlavu/vizzes)]*
 
 ## 👨‍💻 Author
 
