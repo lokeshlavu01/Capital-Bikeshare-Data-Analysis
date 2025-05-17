@@ -1,6 +1,6 @@
 # 🚲 Capital Bikeshare Data Analysis
 
-This project explores **1.5 million+ ride records** from the Capital Bikeshare system to uncover insights, predict demand, and visualize patterns using Python and Tableau.
+This project explores **17.5 million+ ride records** from the Capital Bikeshare system to uncover insights, predict demand, and visualize patterns using Python and Tableau.
 
 ## 📌 Project Overview
 
