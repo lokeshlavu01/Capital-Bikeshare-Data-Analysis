@@ -17,7 +17,7 @@ This project explores **16 million+ ride records** from the Capital Bikeshare sy
 ## 📊 Key Insights
 
 - Uncovered **seasonal usage trends**, **trip duration patterns**, and **demographic behaviors**.
-- Built a **regression model** with **R² = 0.83** to forecast demand.
+- Built a **regression model** with **R² = 0.69** to forecast demand.
 - Developed **Tableau dashboards** to complement Python visualizations, showcasing:
   - Hourly and weekly ride volume
   - User type breakdowns
