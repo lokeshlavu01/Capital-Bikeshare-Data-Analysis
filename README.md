@@ -32,7 +32,7 @@ This project explores **16 million+ ride records** from the Capital Bikeshare sy
 
 1. Clone the repository  
 2. Open the Jupyter notebook in your IDE or Google Colab  
-3. Install requirements (`pip install -r requirements.txt`)  
+3. Install requirements 
 4. Run all cells to reproduce the analysis  
 5. View Tableau dashboards (if included or linked)
 
