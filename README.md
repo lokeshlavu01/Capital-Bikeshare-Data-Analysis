@@ -39,7 +39,7 @@ This project explores **17.5 million+ ride records** from the Capital Bikeshare 
 ## 📈 Tableau Dashboards
 
 📊 View Tableau visuals:  
-🔗 *[[Tableau Visualizations](https://public.tableau.com/views/CapitalBikeshareDataAnalysis_17476145553080/CapitalBikeshareUsageDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)*
+🔗 *[Tableau Visualizations](https://public.tableau.com/views/CapitalBikeshareDataAnalysis_17476145553080/CapitalBikeshareUsageDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)*
 
 ## 👨‍💻 Author
 
